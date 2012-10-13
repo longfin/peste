@@ -1,0 +1,15 @@
+syntax:glob
+
+.DS_Store
+env
+bin
+build
+dist
+include
+lib
+.Python
+*.pyc
+*.swp
+*.egg-info
+*.egg
+*.sqlite
